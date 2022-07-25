@@ -1,5 +1,3 @@
-import './categories.styles.scss'
-import CategoryItem from "./Components/Category-item/Category-item";
 import React from "react";
 import Directory from "./Components/Directory/Directory";
 
